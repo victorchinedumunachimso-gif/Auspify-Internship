@@ -1,0 +1,17 @@
+NETFLIX DATA ANALYSIS REPORT
+========================================
+
+BUSINESS INSIGHTS
+----------------------------------------
+- Movies account for 69.69% of the content library.
+- TV Shows account for 30.31% of the content library.
+- United States is the country with the highest number of titles.
+- TV-MA is the most common content rating.
+
+BUSINESS RECOMMENDATIONS
+----------------------------------------
+- Maintain strong movie content availability while continuing to develop the TV Show library.
+- Prioritize internationally diverse content because International Movies is the most common genre.
+- Consider content strategies around mature audiences because TV-MA is the most common rating.
+- Use historical content-addition trends to plan future content acquisition and release strategies.
+- Consider both short-form TV series and longer-running series when expanding the TV Show catalogue.
